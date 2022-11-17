@@ -6,7 +6,7 @@
 <p>
 <p align="center">
     <a href="https://github.com/paperswithcode/galai/blob/main/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/paperwithcode/galai.svg?color=purple">
+        <img alt="GitHub" src="https://img.shields.io/github/license/paperswithcode/galai.svg">
     </a>
     <a href="https://github.com/paperswithcode/galai/releases">
         <img alt="GitHub release" src="https://img.shields.io/github/release/paperswithcode/galai.svg">
@@ -16,6 +16,12 @@
 **GALACTICA** is a general-purpose scientific language model. It is trained on a large corpus of scientific text and data. It can perform scientific NLP tasks at a high level, as well as tasks such as citation prediction, mathematical reasoning, molecular property prediction and protein annotation. A demo is available at [galactica.org](https://galactica.org).
 
 ## Install
+
+From pip:
+    
+```bash
+pip install galai
+```
 
 From repository:
     
